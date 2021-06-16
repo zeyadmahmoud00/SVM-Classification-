@@ -1,2 +1,2 @@
-# SVM-Classification-
+# SVM-Classification
 Lung Cancer prediction
